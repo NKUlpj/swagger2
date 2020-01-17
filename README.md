@@ -14,9 +14,9 @@ mvn install:install-file -Dfile=./swagger2-1.0.0.jar -DgroupId=com.github.nkul -
 
 ```
 <dependency>
-		<groupId>com.github.nkul</groupId>
-		<artifactId>swagger2</artifactId>
-		<version>1.0.0</version>
+    <groupId>com.github.nkul</groupId>
+    <artifactId>swagger2</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
 
